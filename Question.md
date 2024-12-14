@@ -7,7 +7,7 @@
 
 You are given a **0-indexed** integer array `nums`. A subarray of `nums` is called **continuous** if:
 
-- Let `i`, `i + 1`, ..., `j` be the indices in the subarray. Then, for each pair of indices <code>i <= i<sub>1</sub>, i<sub>2</sub> <= j</code>, <code>0 <= |nums[i<sub>1</sub>] - nums[<sub>2</sub>]| <= 2</code>.
+- Let `i`, `i + 1`, ..., `j` be the indices in the subarray. Then, for each pair of indices <code>i <= i<sub>1</sub>, i<sub>2</sub> <= j</code>, <code>0 <= |nums[i<sub>1</sub>] - nums[i<sub>2</sub>]| <= 2</code>.
 
 Return *the total number of ***continuous*** subarrays*.
 
